@@ -10,7 +10,6 @@ Skills: NETLIFY / GATSBY / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alex-pek10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-pek10&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/alex-pek10)  
 <!--
