@@ -1,12 +1,8 @@
 ### Hi there 👋, my name is Alex
-#### I am the owner of Pek10
+#### I am the owner of Pek10 Dev
 ![I am the owner of Pek10](https://pbs.twimg.com/profile_banners/1314527961861718016/1602247078/600x200)
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
-
 Skills: NETLIFY / GATSBY / REACT / JS / HTML / CSS
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alex-pek10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pek10_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pek10.dev)  
 
